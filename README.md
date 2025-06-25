@@ -1,6 +1,6 @@
-# Linguagem de Programação 1 — UESC
+Linguagem de Programação 1 — UESC
 
-Este repositório contém os exemplos e exercícios desenvolvidos durante a disciplina de **Linguagem de Programação 1, do curso de **Ciência da Computação da UESC (Universidade Estadual de Santa Cruz).
+Este repositório contém os exemplos e exercícios desenvolvidos durante a disciplina de Linguagem de Programação 1, do curso de Ciência da Computação da UESC (Universidade Estadual de Santa Cruz).
 
 Todos os códigos são escritos na linguagem C e estão organizados em pastas temáticas conforme os assuntos abordados nas aulas.
 
