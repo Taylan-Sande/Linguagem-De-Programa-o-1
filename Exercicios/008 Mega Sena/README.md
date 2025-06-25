@@ -1,0 +1,1 @@
+Faz um sorteio de senas até achar a sena premiada, e computa a quantidade de tentativas

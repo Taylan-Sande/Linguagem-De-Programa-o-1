@@ -1,0 +1,1 @@
+Essa pasta contém todos os exemplos da aula 3, sobre variáveis e bytes

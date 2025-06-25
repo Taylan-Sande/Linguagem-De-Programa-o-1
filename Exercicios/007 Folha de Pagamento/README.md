@@ -1,0 +1,1 @@
+Calcula a folha de pagamento de um funcionário
